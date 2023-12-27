@@ -1,7 +1,7 @@
 for (var i = 1; i <= 100; i++) {
     if (i % 2 === 0) {
-        console.log("Четное" + i);
+        console.log("Even" + i);
     } else {
-        console.log("Нечетное" + i);
+        console.log("Odd" + i);
     }
 }
